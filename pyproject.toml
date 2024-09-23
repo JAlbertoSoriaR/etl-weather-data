@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "etl-weather-data"
+version = "0.1.0"
+description = "ETL project for weather data"
+authors = ["JAlbertoSoriaR <soriajs1312@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+pandas = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -4,4 +4,4 @@
 cd /home/outis/Repositorios/etl-weather-data
 
 # Activate Poetry environment
-poetry run python etl_weather_data/etl_script.py
+/home/outis/.local/bin/poetry run python etl_weather_data/etl_script.py

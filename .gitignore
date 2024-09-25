@@ -7,3 +7,6 @@ __pycache__/
 
 # Ignore Poetry files
 .poetry/
+
+# Ignore .log files
+etl.log 
